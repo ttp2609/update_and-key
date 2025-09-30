@@ -1,0 +1,9 @@
+{
+  "latest": "1.0.1",
+  "min_supported": "1.0.0",
+  "win": {
+    "url": "https://drive.google.com/file/d/1C2aOVehIGHjkQC5STREF7F0Yf1wGE9Bi/view?usp=sharing",
+    "sha256": "acae08b8ecb97bcacdce10ad61dbbba5d52ea8aff47483bac428e293f2a3baff"
+  },
+  "changelog": "- Sửa lỗi A\n- Thêm tính năng B\n- Tối ưu C"
+}

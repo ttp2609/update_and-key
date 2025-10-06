@@ -1,9 +1,9 @@
 {
-  "latest": "1.0.1",
-  "min_supported": "1.0.0",
+  "latest": "1.0.3",
+  "min_supported": "1.0.2",
   "win": {
-    "url": "https://drive.google.com/file/d/16ylsGwAm8zy_7EnhwHDCLYd2Mc5e3Mk9/view?usp=sharing",
-    "sha256": "acae08b8ecb97bcacdce10ad61dbbba5d52ea8aff47483bac428e293f2a3baff"
+    "url": "https://drive.google.com/file/d/1C2A652Cv_2XQbczSxZ7hv39drOsZkVy6/view?usp=sharing",
+    "sha256": "3C1DE1541CDFAB9870A3BC70D2D6A5A9A8A7D40B71C2E0CC8F78AA3829270E00"
   },
-  "changelog": "- Sửa lỗi A\n- Thêm tính năng B\n- Tối ưu C"
+  "changelog": "- Tùy chọn đặt biệt danh cho User. -Xem HSD. -Tối ưu xử lý phản hồi."
 }
